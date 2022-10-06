@@ -6,6 +6,7 @@ const feedArticles = [
   {
     id: '1',
     thumbnail: 'https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png',
+    title: '제목1 예시',
     content: `KT, 테이블매니저에 전략 투자…'AI통화비서' 서비스 고도화`,
     age: `2022/09/25 10:43`,
     company: '뉴시스',
@@ -17,6 +18,7 @@ const feedArticles = [
     id: '2',
     thumbnail:
       'https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png',
+      title: '제목2 예시',
     content: `KT, 테이블매니저에 전략 투자…'AI통화비서' 서비스 고도화`,
     age: `2022/09/25 10:43`,
     company: '뉴시스',

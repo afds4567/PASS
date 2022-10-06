@@ -37,12 +37,13 @@ export const Title = styled.div`
   font-size: 1rem;
   font-weight: 500;
   margin: 1rem;
-  font-family: 'NS-B';
+  font-family: 'NS-L';
   letter-spacing: -0.5px;
 `;
 
 export const Content = styled.div`
-  font-family: 'NS-R';
+  // font-family: 'NS-R';
+  font-family: 'NS-L';
   font-size: 0.85rem;
   margin: 0 1rem;
   display: -webkit-box;
