@@ -5,9 +5,13 @@
   "dependencies": {
     "@ant-design/icons": "4.7.0",
     "antd": "4.23.2",
+    "markdown-to-text": "^0.1.1",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
-    "react-highlight-words": "^0.18.0"
+    "react-highlight-words": "^0.18.0",
+    "react-is": ">= 16.8.0",
+    "react-router-dom": "^6.4.2",
+    "styled-components": "^5.3.6"
   },
   "scripts": {
     "start": "react-scripts start",
