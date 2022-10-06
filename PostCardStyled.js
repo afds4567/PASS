@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components';
+import './index.css';
 
 export const Card = styled.div`
   cursor: pointer;
